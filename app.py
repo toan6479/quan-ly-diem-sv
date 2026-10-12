@@ -93,4 +93,4 @@ st.pyplot(fig)
 st.markdown("---")
 
 # 6. Thông tin người tạo ở cuối trang (chữ nhỏ)
-st.markdown("<p style='text-align: center; font-size: small; color: gray;'>Họ và tên: Nguyễn Nhật Toàn - MSSV: [Mã số sinh viên của bạn]</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size: small; color: gray;'>Họ và tên: Nguyễn Nhật Toàn - MSSV: 051208003905</p>", unsafe_allow_html=True)
